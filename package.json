@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+  "_id": "cordova-plugin-sunmi-inner-printer-v2@1.0.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-sunmi-inner-printer-v2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+    "rawSpec": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+    "saveSpec": "git+https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+    "fetchSpec": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git#5701785cfe2a3a82e1894a7ffc2cfa682a233cf5",
+  "_spec": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git",
+  "_where": "D:\\Sync\\Martin\\inProgress\\HDH\\repos\\hdhtpv",
+  "author": {
+    "name": "Silvio Campos. Adapted to Sunmi v2 by Jose Escoboso. Forked by Martin Lombana for name changes and future updates."
+  },
+  "bugs": {
+    "url": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-sunmi-inner-printer-v2",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova/Ionic Sunmi v2 Inner Printer ",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova-android": ">=6.4.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2#readme",
+  "license": "MIT",
+  "name": "cordova-plugin-sunmi-inner-printer-v2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinlombana/cordova-plugin-sunmi-inner-printer-v2.git"
+  },
+  "version": "1.0.7"
+}
