@@ -5,7 +5,7 @@ import android.graphics.Bitmap;
 import com.sunmi.trans.TransBean;
 
 interface IWoyouService
-{	
+{
 	void updateFirmware();
 	
 	int getFirmwareStatus();
