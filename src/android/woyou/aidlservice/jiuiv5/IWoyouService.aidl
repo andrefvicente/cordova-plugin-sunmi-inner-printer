@@ -39,7 +39,6 @@ interface IWoyouService
 	void printTextWithFont(String text, String typeface, float fontsize, in ICallback callback);
 
 	void printColumnsText(in String[] colsTextArr, in int[] colsWidthArr, in int[] colsAlign, in ICallback callback);
-
 	
 	void printBitmap(in Bitmap bitmap, in ICallback callback);
 	
